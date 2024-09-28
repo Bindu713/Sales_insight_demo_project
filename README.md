@@ -1,5 +1,4 @@
 # Sales_insight_demo_project
-Sales_insight_demo_project
 This project showcases a Tableau dashboard created from sales data extracted using SQL queries. The goal is to provide a comprehensive overview of sales performance, highlighting key metrics such as total revenue, sales quantity, market trends, top customers, and top products by revenue.
 
 Overview
